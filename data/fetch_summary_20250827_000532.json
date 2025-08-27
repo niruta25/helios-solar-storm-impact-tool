@@ -1,0 +1,11 @@
+{
+  "fetch_timestamp": "20250827_000532",
+  "date_range": {
+    "start_date": "2025-07-28",
+    "end_date": "2025-08-27"
+  },
+  "records_count": {
+    "solar_flares": 41,
+    "cme_events": 142
+  }
+}
